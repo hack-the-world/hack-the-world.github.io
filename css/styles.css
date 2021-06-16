@@ -1,0 +1,13 @@
+
+body {
+  font:DroidSansMono.ttf
+  padding-top: 50px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+#waqr{
+  borderRadius:12px;
+}
